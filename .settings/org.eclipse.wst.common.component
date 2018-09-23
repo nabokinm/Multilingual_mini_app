@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Multilingual_mini_app">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Multilingual_mini_app"/>
+        <property name="java-output-path" value="/Multilingual_mini_app/build/classes"/>
+    </wb-module>
+</project-modules>
